@@ -41,14 +41,14 @@ Configuration: JSON-based config file
 
 🚀 快速开始 / Getting Started
 bash
-复制
-编辑
 git clone https://github.com/flower-wins/IP-DY.git
 cd IP-DY
 pip install -r requirements.txt
 python ip-dy.py
+
 编辑配置文件 config.json 以填写你的域名信息和 DNS 服务商 API 密钥。
 Edit the config.json file to provide your domain info and DNS provider API credentials.
+
 **订阅器部署**
 代码地址：dingyue.js
 **设置优选IP: 优选域名**，API，CSV
